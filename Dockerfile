@@ -1,2 +1,2 @@
-FROM nginx:1.19.4-alpine
+FROM nginx:mainline-alpine
 RUN echo "Hello"
