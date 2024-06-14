@@ -1,2 +1,2 @@
-FROM nginx:1.19.4-alpine
+FROM nginx:1.26.1-alpine
 RUN echo "Hello"
